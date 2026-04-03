@@ -1,0 +1,13 @@
+# Ignore volatile UI-related state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+
+# Ignore system files
+.trash/
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore all plugins if you prefer to install them manually on each device
+# .obsidian/plugins/
+
